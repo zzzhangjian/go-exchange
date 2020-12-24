@@ -80,7 +80,7 @@ Depuis sa version [`1.13`](https://golang.org/doc/go1.13#modules), Go active la 
 
 Spécifications OpenAPI/Swagger, fichiers de schémas JSON, fichiers de définitions de protocoles.
 
-Voir le dossier [`/api`](api/README.md) pour des examples.
+Voir le dossier [`/api`](app/README.md) pour des examples.
 
 ## Les répertoires d'application web
 
